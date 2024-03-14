@@ -1,6 +1,6 @@
 
 <h3> how do add text in lottie animation </h3>
-![Screenshot_35](https://github.com/ramimmojumdar/MyName/assets/76879234/82ee6521-d185-4d48-ae0b-a6e41c16bbf9)
+![Screenshot_35](https://github.com/ramimmojumdar/MyName/assets/76879234/486c504e-34d0-4d8f-a343-a49685c4a68a)
 
 <h4> we can use FrameLayout or follow this code </h4>
 
